@@ -1,2 +1,2 @@
-# Voluntra
-Projeto voltado para fins academicos
+# Projeto-Voluntra
+Voltado a um trabalho academico
